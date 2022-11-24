@@ -1,0 +1,131 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_7AC1F5FC_5CF9_2BF3_41CD_3799FADAB0B1.source = https://api.whatsapp.com/send/?phone=554733665566&text=Ol%C3%A1+Escola+Bil%C3%ADngue+Semear.&type=phone_number&app_absent=0
+LinkBehaviour_45E57371_583A_2E4C_41D2_23EC45D9B9E2.source = https://api.whatsapp.com/send/?phone=554733665566&text=Ol%C3%A1+Escola+Bil%C3%ADngue+Semear.&type=phone_number&app_absent=0
+LinkBehaviour_45DA2827_583A_19D5_41D3_4CA5B2876722.source = https://escolasemear.com/
+LinkBehaviour_7AC355FC_5CF9_2BF3_4192_B2E06E47B667.source = https://escolasemear.com/
+LinkBehaviour_7AC235FC_5CF9_2BF3_41B2_67B1D55857A3.source = https://escolasemear.com/
+LinkBehaviour_966AF588_8E22_8AC2_41D3_8794DD7CD7D8.source = https://escolasemear.com/carrinho/
+LinkBehaviour_7AC365FC_5CF9_2BF3_41CD_7A7E5BF7E780.source = https://escolasemear.com/carrinho/
+LinkBehaviour_4BB6570D_5CE7_282D_41C6_A22886E40FEE.source = https://portobelo.nossobosque.com.br/
+LinkBehaviour_455F9E4C_583A_1654_41D5_4E8476A781BD.source = https://www.facebook.com/profile.php?id=100087177163906
+LinkBehaviour_7AC2C5FC_5CF9_2BF3_41AC_C4978A0661F3.source = https://www.facebook.com/profile.php?id=100087177163906
+LinkBehaviour_7AC205FC_5CF9_2BF3_41CA_DC1D9A7C2C27.source = https://www.google.com/maps/place/Escola+Bil%C3%ADngue+Semear+BC/@-26.9907797,-48.6413008,15z/data=!4m5!3m4!1s0x0:0x81997f643ba60ea9!8m2!3d-26.9907797!4d-48.6413008
+LinkBehaviour_442429F3_583A_3A4D_41A8_7BEA9AFFB99C.source = https://www.google.com/maps/place/Escola+Bil%C3%ADngue+Semear+BC/@-26.9907797,-48.6413008,15z/data=!4m5!3m4!1s0x0:0x81997f643ba60ea9!8m2!3d-26.9907797!4d-48.6413008
+LinkBehaviour_7AC3A5FC_5CF9_2BF3_41D0_8551656CB7D0.source = https://www.instagram.com/forlife.school/
+LinkBehaviour_442567B0_583A_16CC_41C0_C4A528EFAB6A.source = https://www.instagram.com/forlife.school/
+LinkBehaviour_4AA47642_5CE7_2817_4187_4788292E00DB.source = https://www.instagram.com/sight360graus/
+
+## Media
+
+### Audio
+audiores_82743051_957B_A7AC_418F_2A259CA7A45B.mp3Url = media/audio_8CCDCA60_9578_986C_41C2_210002EF885A_pt.mp3
+audiores_82743051_957B_A7AC_418F_2A259CA7A45B.oggUrl = media/audio_8CCDCA60_9578_986C_41C2_210002EF885A_pt.ogg
+
+### Title
+panorama_89C4E327_83A0_88F0_41D6_4CCDFE575957.label = ADM/FINANCEIRO
+panorama_89C7036C_83A3_8F71_41D1_8B5B3EF99C8F.label = Banheiro para Meninas
+panorama_89C7F907_83A0_B8B0_41D0_EDDD192B25B3.label = Banheiro para Meninos
+panorama_89C70557_83A3_8B50_41DF_A976BB30AC72.label = Cordenação Pedagógica
+panorama_89C727DF_83A3_7750_41D3_DF24D2A2CD8B.label = Corredor Escada inferior
+panorama_89C524BA_83A0_89D1_4189_4312A375CAC5.label = Corredor Inferior 2
+panorama_89C7C1C8_83A3_8BB1_41D9_32A5E2D25426.label = Corredor Inferior 2
+panorama_89C4D603_83A0_88B0_41BF_B6BFA37C7488.label = Corredor Inferior 3
+panorama_89C6A6FF_83A1_8950_41DC_D54C8622E941.label = Corredor Sala Educ infantil
+panorama_89C73241_83A0_88B0_41D6_E07FF3163B38.label = Corredor inferior 1
+panorama_89C71050_83A0_8950_41B9_4EA48A7BFA87.label = Corredor inferior 2
+panorama_89C73EFE_83A3_9951_41A5_9C6B6F500227.label = Corredor sala computacional
+panorama_89C54FDF_83A0_974F_41C4_F4530A209E30.label = Corredor superior 1
+panorama_89C51E9E_83A0_B9D1_41DB_0441796B61B7.label = Corredor superior 2
+panorama_89C70837_83A0_98DF_417E_CEF03611E1FC.label = Cozinha
+panorama_89C5ABAA_83A0_9FF1_41D4_118B47F60127.label = Entrada
+panorama_89C7066B_83A0_8977_41A0_C6B0D6FCBCF0.label = Escada Inferior
+panorama_89CF0E23_83A0_F8F0_41E0_368DF1213B54.label = Estacionamento
+panorama_89C74AA7_83A0_F9FF_4196_7D3BD8AB7832.label = Fraldário
+panorama_89C5FA1C_83A1_78D1_41D2_084A28BB96B8.label = Playground 1
+panorama_89C5593B_83A1_B8D7_41C1_6B42FB88280F.label = Playground 2
+panorama_89C55A9B_83A1_99D0_41D0_1457FFE88F63.label = Quadra
+panorama_89C76A73_83A3_B957_41D2_F4B0C729DE72.label = Quadra coberta
+panorama_9ECDEDF9_8D6C_7B7F_41D7_FD46AAEABB10.label = Recepção
+panorama_A83CC49A_A47B_5B29_41C8_F460DCCFCCE6.label = Refeitorio 
+
+panorama_89C6D632_83A1_88D0_419F_CA0A918A4EFC.label = Refeitório 
+panorama_B74E9A43_A48A_CF1E_41E1_47EB83F36D01.label = Refeitório 
+panorama_89C501AC_83A0_8BF1_41C1_5AF50F27C88C.label = Sala Diretoria
+panorama_89C72B41_83A3_98B0_4188_531EA30E8396.label = Sala Educação Fundamental 1
+panorama_89C708EA_83A3_9971_41DC_48DEF663B4EA.label = Sala Educação Fundamental 2
+panorama_89C4E6F2_83A0_8951_41DD_A2FE8C27B179.label = Sala Material Pedagógico
+panorama_89C7DC1E_83A3_F8D0_41C8_A633FC50DEF5.label = Sala Pensamento computacional
+panorama_89C6A82B_83A1_98F0_41D6_FF20AEFBE410.label = Sala de Educação infantil 1
+panorama_89C75EB1_83A0_B9D3_41DC_3161260CAD9A.label = Sala de Educação infantil 2
+panorama_89C72C73_83A0_9950_41C9_014AA502BC87.label = Sala de Educação infantil 3
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_0.label = foto 1 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_9.label = foto 10 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_10.label = foto 11
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_11.label = foto 12 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_12.label = foto 13 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_13.label = foto 14 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_14.label = foto 15 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_15.label = foto 16 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_16.label = foto 17 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_17.label = foto 18 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_18.label = foto 19 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_1.label = foto 2 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_19.label = foto 20 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_20.label = foto 21 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_21.label = foto 22 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_22.label = foto 23
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_23.label = foto 24 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_24.label = foto 25
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_2.label = foto 3 jph
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_3.label = foto 4 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_4.label = foto 5 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_5.label = foto 6 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_6.label = foto 7 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_7.label = foto 8 jpg refeita
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_8.label = foto 9 jpg
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_26.label = foto externa JPG
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6_25.label = foto externa JPG 2
+panorama_89C5CD7D_83A0_BB50_41D7_B5798819C562.label = lounge Externo
+panorama_89C65E05_83A0_98B3_41E0_65A6AB3E7FBC.label = Àrea Externa 2
+album_98C45693_8D1F_89B3_415D_F05E2636BBE6.label = Álbum de Fotos
+panorama_B5A29B69_A497_CDEB_41E3_B12C0B5AFACD.label = Área externa 1
+
+## Skin
+
+### Button
+Button_4D6A6A07_5856_F9D5_41D0_345B933FEB79.label = CABANA 
+Button_4D735FD4_5856_1674_41B9_A7FC0404F844.label = CABANA 
+Button_4D65F7C4_5856_F654_4195_E1EA2679E175.label = CABANA 
+Button_4CF59CAE_584E_FAD7_41D3_EE91E2378DDB.label = ENTRADA AVENIDA
+Button_4D01743A_5856_2A3F_41B1_48FC95B1FECC.label = ENTRADA PRINCIPAL
+Button_4E209C36_5856_1A34_41AB_8E3FE52BBAAD.label = LAGO
+Button_988FCE3B_8E25_99C6_41BD_88D99AC2A6D7.label = Matricule-se
+Button_4D7AB330_5856_EFCB_41BA_4A2A7C73D0C3.label = PISCINA
+Button_DDA5CECA_D35A_347B_41E9_09F1E04C1FA2_mobile.label = matricule-se  já
+
+### Dropdown
+DropDown_9D2B7C99_8E23_9AC2_4199_D2371B408EE6.prompt = MENU 
+DropDown_9A53EDDD_9508_F854_41D1_2B74582F89A0.prompt = Menu
+
+### Image
+Image_7D4208F4_585A_7A34_41C5_F5BA140E4D2A.url = skin/Image_7D4208F4_585A_7A34_41C5_F5BA140E4D2A_pt.png
+Image_81B4D04A_9508_A7BD_41D0_77BCE91A206B.url = skin/Image_81B4D04A_9508_A7BD_41D0_77BCE91A206B_pt.png
+Image_9D9D67AB_8C4D_8156_41C3_DC03F4836622.url = skin/Image_9D9D67AB_8C4D_8156_41C3_DC03F4836622_pt.png
+Image_C5CA396C_D29E_2F54_41E5_41650D405605_mobile.url = skin/Image_C5CA396C_D29E_2F54_41E5_41650D405605_mobile_pt.png
+Image_C5CA396C_D29E_2F54_41E5_41650D405605.url = skin/Image_C5CA396C_D29E_2F54_41E5_41650D405605_pt.png
+
+### Multiline Text
+HTMLText_7874E449_5DA7_2815_41D6_35C39F6712B1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:left;font-size:6.890756302521007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.89vh;font-family:'Bebas Neue';">Chalé Superior - até 4 pessoas</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.71vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:2.02vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:left;font-size:3.3613445378151217vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009966;font-size:3.36vh;font-family:Tahoma, Geneva, sans-serif;"><B>Este quarto quádruplo inclui varanda, </B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:left;font-size:3.3613445378151217vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009966;font-size:3.36vh;font-family:Tahoma, Geneva, sans-serif;"><B>ar-condicionado e entrada privativa.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.02vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:2.02vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.18vh;font-family:'Helvetica';"> </SPAN><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';"> •   Serviço de streaming (como Netflix)    •   Sofá-cama</SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';">  •   Arara para roupas                              •   Varanda</SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';">  •   TV Smart                                          •   Frigobar</SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';">  •  Cama dobrável                                   •  Varal para secar roupas</SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';">  •  Área de refeições externa</SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';">  </SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';">* Todas as cabanas por dentro são iguais , o que difere é a vista</SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';">da varanda</SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.3529411764705856vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.35vh;font-family:'Helvetica';">    </SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:justify;font-size:2.5210084033613427vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.52vh;">  </SPAN></SPAN></DIV></div>
+HTMLText_4213617F_5DE7_68ED_41C8_C6D747594123.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 0px rgba(0,0,0,0.41);text-align:left;font-size:6.890756302521007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.89vh;font-family:'Bebas Neue';">lounge externo</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.71vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:2.02vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.52vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:2.02vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual 360 graus e conheça nossa estrutura!
+
+### Title
+tour.name = Colégio For life School
